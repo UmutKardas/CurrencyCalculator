@@ -14,16 +14,9 @@ CurrencyCalculator is an application developed to calculate and display currency
 
 ## Screenshots
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="text-align: center;">
-        <h3>Light Mode</h3>
-        <img src="https://github.com/user-attachments/assets/33d09dfd-51e8-4450-ba9d-ce252576056c" width="300" alt="currency-white" />
-    </div>
-    <div style="text-align: center;">
-        <h3>Dark Mode</h3>
-        <img src="https://github.com/user-attachments/assets/b0220b8a-68ee-4e86-b07a-e2f9887595f5" width="300" alt="currency-black" />
-    </div>
-</div>
+| Light Mode | Dark Mode |
+|------------|-----------|
+| <img src="https://github.com/user-attachments/assets/33d09dfd-51e8-4450-ba9d-ce252576056c" width="300" alt="currency-white" /> | <img src="https://github.com/user-attachments/assets/b0220b8a-68ee-4e86-b07a-e2f9887595f5" width="300" alt="currency-black" /> |
 
 ## Installation
 
