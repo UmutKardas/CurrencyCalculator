@@ -6,6 +6,7 @@ CurrencyCalculator is an application developed to calculate and display currency
 
 - **SwiftUI**: For building the user interface.
 - **Alamofire**: For making network requests to fetch currency data.
+- **MVVM**: For organizing the code structure.
 
 ## Features
 
